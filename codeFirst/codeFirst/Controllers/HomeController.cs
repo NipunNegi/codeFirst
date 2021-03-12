@@ -15,7 +15,7 @@ namespace codeFirst.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application descript";
 
             return View();
         }
